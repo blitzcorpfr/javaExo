@@ -1,0 +1,32 @@
+1)
+
+False 10
+
+Result : 28
+
+error -> = au lieu de == dans condition if 
+
+error -> null affecté à un booléen qui n'est pas un pointeur
+
+---
+
+2) 
+iabd
+
+3)
+
+un premier texte
+un deuxième texte
+un deuxieme texte texte a concatener en string
+construction sbuffer texte a concatener en sbuffer
+construction sbuffer 2
+simple construction
+
+4)
+
+1
+1
+1
+erreur de pointeur
+
+
